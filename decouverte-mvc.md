@@ -34,7 +34,7 @@
   * Afin de pouvoir controler tout accès à une page et éventuellement permettre des controles ou traitement préalable à l'affichage de la page faites en sorte que toute page ne soit accessible qu'en passant par index.php ( vous passerez le nom de la page en parametre )
   * Testez la nouvele architecture
 
-## Exercice 5: A partir de votre expérience et de ce que vous pouvez imaginer répondez aux questions suivantes:
+## Exercice 5: A partir de votre expérience répondez aux questions suivantes:
   * Quand peut-on déceller une opportunité de factorisation?
   * En quoi consiste la factorisation?
   * Recherchez ce que signifie les lettres MVC dans le modèle MVC
