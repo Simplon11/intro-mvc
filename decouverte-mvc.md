@@ -8,8 +8,6 @@
   * Avoir la base de données annonces_immo
   * Savoir faire une page php avec accès au données
 
---
-
 ## Exercice 1: Création d'une application flat php
   * Créez une page php "annonces.php" qui renvoie une page HTML structurée avec un header une nav à gauche et une section. Le header aura un background-color bleu et contiendra un titre h1 "Affichage des annonces"
   * Ajoutez le code nécessaire pour avoir une connexion à la base, requeter la table annonces et afficher le résultat dans une table html positionnée dans la section.
@@ -29,7 +27,8 @@
   * Testez maitenant d'autres modifications structurelles ou de mise en forme et vérifiez la bonne répercussion sur l'ensemble des pages.
   * Présentation des solutions en live programming
 
-## Exercice 4: L'administrateur de votre base de données a besoin d'effectuer une maintenance sur le serveur de base de données qui sera indisponible pendant toute une nuit. Il faut donc permettre de rediriger pendant ce temps toutes les pages vers une page qui explique à l'utilisateur que le site va être indisponible pendant ce temps.
+## Exercice 4: Controler l'accès aux pages de votre site
+  * L'administrateur de votre base de données a besoin d'effectuer une maintenance sur le serveur de base de données qui sera indisponible pendant toute une nuit. Il faut donc permettre de rediriger pendant ce temps toutes les pages vers une page qui explique à l'utilisateur que le site va être indisponible pendant ce temps.
   * Sur combien de fichiers avez-vous du intervenir pour réaliser cette nouvelle demande?
   * Afin de pouvoir controler tout accès à une page et éventuellement permettre des controles ou traitement préalable à l'affichage de la page faites en sorte que toute page ne soit accessible qu'en passant par index.php ( vous passerez le nom de la page en parametre )
   * Testez la nouvele architecture
