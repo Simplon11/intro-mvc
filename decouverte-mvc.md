@@ -4,6 +4,7 @@
   * Travail en pair programming
   * Un repository GIT
   * A chaque étape une branche sera créée au début et mergé à la fin pour permettre à chacun de redémarer sur des bonnes bases à chaque début d'exercices
+  * Durée de la séquence: 1 journée
 * Préalable:
   * Avoir la base de données annonces_immo
   * Savoir faire une page php avec accès au données
@@ -38,6 +39,7 @@
   * En quoi consiste la factorisation?
   * Recherchez ce que signifie les lettres MVC dans le modèle MVC
   * Faites l'association entre chaque fichier créé et sa couche dans le modèle MVC.
-  * Qu'est-ce qu'un controleur Frontal? quel fichier opère se role dans votre projet?
-
-
+  * Qu'est-ce qu'un controleur Frontal? Quel fichier opère ce role dans votre projet?
+  * Quels sont les avantages que vous avez pu observer du modèle MVC?
+  * Quels autres avantages arrivez-vous à envisager?
+  * Restitution tous ensemble...
