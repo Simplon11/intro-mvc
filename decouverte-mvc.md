@@ -7,8 +7,7 @@
 * Préalable:
   * Avoir la base de données annonces_immo
   * Savoir faire une page php avec accès au données
-
-* Organisation
+--
 
 ## Exercice 1: Création d'une application flat php
   * Créez une page php "annonces.php" qui renvoie une page HTML structurée avec un header une nav à gauche et une section. Le header aura un background-color bleu et contiendra un titre h1 "Affichage des annonces"
